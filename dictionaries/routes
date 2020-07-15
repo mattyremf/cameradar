@@ -184,3 +184,9 @@ videoinput_1/h264_1/media.stm
 videostream.asf
 vis
 wfov
+liveimg.cgi?serverpush=1&jpeg=1&stream=0
+liveimg.cgi?serverpush=1&jpeg=1&stream=1
+liveimg.cgi
+liveimg.cgi?ch=1
+liveimg.cgi?serverpush=1
+VideoInput/1/h264/1
